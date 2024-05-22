@@ -262,6 +262,7 @@ h6 {
   position: relative;
   z-index: 2;
   min-width: 300px;
+  text-align: left;
   text-shadow: #040b14;
 }
 
